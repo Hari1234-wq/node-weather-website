@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #fff;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.form-inline input {
+    width: calc(100% - 100px);
+}
+
+.form-inline button {
+    width: 100px;
+}
